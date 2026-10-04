@@ -1,0 +1,57 @@
+﻿.login-page {
+    padding: 50px 40px;
+    background: #0064b2;
+    text-align: center;
+}
+
+.login-page .login-box {
+    margin: 0 auto;
+    width: 38%;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background: white;
+    box-shadow: 0px 5px 50px 7px black;
+    text-align: center;
+}
+ 
+.login-page h2 {
+    color: blue;
+    font-size: 28px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.login-page input[type="text"],
+.login-page input[type="password"] {
+    border: 1px solid grey;
+    padding: 10px;
+    width: 87%;
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.login-page input[type="submit"],
+.login-page .aspNetButton {
+    border: 1px solid grey;
+    padding: 10px;
+    width: 75%;
+    background: #024379;
+    font-size: 18px;
+    border-radius: 10px;
+    color: white;
+    margin: 15px 0;
+}
+hr {
+  
+  border: none;
+  height: 2px;
+  background-color: #333;
+   margin-bottom:5%;
+}
+
+ 
